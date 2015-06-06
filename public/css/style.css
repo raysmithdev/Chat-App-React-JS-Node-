@@ -1,0 +1,42 @@
+body{
+	background: #4c9689!important;
+}
+
+
+/*
+	Chat area
+*/
+.messages {
+	padding: 1em;
+}
+
+.messages .title {
+	font-style: italic;
+	color: #fff;
+}
+
+.messages .content {
+	background: #fff;
+	color: #2a80b9;
+	padding: 1em;
+	min-height: 600px;
+}
+
+/*
+	Where user types a message
+*/
+
+.message_form {
+	padding: 1em;
+	margin-top: 30px;	
+}
+
+.message_form .form-control  {
+	height: 50px;
+	padding: 9px 30px 9px 8px;
+	padding-left: 10px;
+	width: 50%;
+	float: right;
+	border-radius: 10px;
+}
+
