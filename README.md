@@ -10,3 +10,6 @@
 * type npm install to download dependencies
 * To start the server run the following command node app.js 
 * Now navigate to port 3000 in your browser to see the app
+
+### Things to do in future
+> Need to have a typing feature so when other user is typing a message it shows up for the other user
